@@ -1,0 +1,5 @@
+.oponent{
+    transition: top 5000ms ease;
+    top:100%;
+    width: 250px!important;
+}
